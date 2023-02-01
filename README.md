@@ -3,7 +3,7 @@ List of homeworks for the course
 
 ---
 
-[Решения задач из курса по автоматизации](https://bitbucket.org/drevin_qa/drevin_qa/src/main/automation/)
+[Решения задач из курса по автоматизации](https://github.com/mrskittlesd/stepik_auto_tests_course/tree/main/automation)
 
 ---
 
